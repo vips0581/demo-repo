@@ -1,4 +1,1 @@
 Hi, this file was created from bash shell
-
-Thanks
-
